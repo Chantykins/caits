@@ -1,4 +1,7 @@
-body{background-color: pink;}
+body {
+    background-color: bisque;
+}
+
 h1 {
     text-align: right;
     font-size: 60px;
@@ -41,16 +44,35 @@ header nav ul li {
 }
 
 .creations {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif
+    color:black
+    padding: 40px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.bodyorder{background-color: antiquewhite;}
-h3{text-align: center;}
-.mission{text-align: center;
-    padding:50px;}
-    .container{display: flex;}
-    h2{text-align: center;
+
+.bodyorder {
+    background-color: bisque;
+}
+
+h3 {
+    text-align: center;
+}
+
+.mission {
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    display: flex;
+}
+
+h2 {
+    text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
- color: white;
-padding:auto;
-background-color: black;}
+    color: white;
+    padding: auto;
+    background-color: pink;
+}
